@@ -19,5 +19,4 @@ Este repositório é o meu hub central de estudos e práticas em **SQL Server**.
 2. **Performance:** Evitar o uso de `SELECT *`, priorizando a listagem explícita de colunas.
 3. **Segurança:** Nunca salvar credenciais nos scripts e usar parâmetros em vez de concatenar strings.
 
----
-Mantido por [Seu Nome]. Vamos codar! 🚀
+
